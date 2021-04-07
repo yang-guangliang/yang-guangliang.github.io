@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <img width="150px"  style="float:right; margin-left:10px;margin-top:30px;" src="./pictures/self.jpg">
 
 
