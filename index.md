@@ -1,4 +1,4 @@
-<img width="150px"  style="float:right; margin-left:10px;margin-top:10px;" src="./pictures/self.jpg">
+<img width="150px"  style="float:right; margin-left:10px;margin-top:30px;" src="./pictures/self.jpg">
 
 ## Overview
 
