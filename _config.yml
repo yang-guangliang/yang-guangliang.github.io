@@ -1,7 +1,5 @@
 title: Guangliang Yang  @  Fudan University
 description: Guangliang Yang
 
-
-theme:
-  color: Default
-  fancybox: false
+navbar-text-col: "#404040"
+fancybox: false
