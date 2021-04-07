@@ -1,6 +1,5 @@
 <img width="150px"  style="float:right; margin-left:10px;margin-top:30px;" src="./pictures/self.jpg">
 
-## Overview
 
 I am an assistant professor of the School of Computer Science at Fundan University. Before I joined Fudan, I earned the PhD degree from Texas A&M University and was a postdoctoral fellow of Georgia Tech.  
 
