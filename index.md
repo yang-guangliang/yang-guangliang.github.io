@@ -1,6 +1,6 @@
 <img width="150px"  style="float:right; margin-left:10px;margin-top:10px;" src="./pictures/self.jpg">
 
-### Overview
+## Overview
 
 I am an assistant professor of the School of Computer Science at Fundan University. Before I joined Fudan, I earned the PhD degree from Texas A&M University and was a postdoctoral fellow of Georgia Tech.  
 
@@ -11,8 +11,9 @@ My research mainly focuses on computer system security. I am interested in
 
 <em>[Email]   YangGL at Fudan.edu.cn</em>
 
+************************
 
-### Publications
+## Publications
 
 
 1. Abusing Hidden Properties to Attack the Node.js Ecosystem.  
@@ -57,7 +58,7 @@ Zhaoyan Xu, Antonio Nappa, Robert Baykov, **Guangliang Yang**, Juan Caballero, a
 <span style="color:red">*Finalist for CSAW Best Applied Security Paper Award 2015*<span style="color:red">
   
 
-### Others
+## Others
 
 1. Detecting Android malware by reconstructing high-level semantic from low-level syscall and bypassing anti-debug code, 2015  
 2. LibSE: a generic symbolic execution implementation for GNU/Linux & Android , 2014     
