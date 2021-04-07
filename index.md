@@ -11,7 +11,6 @@ My research mainly focuses on computer system security. I am interested in
 
 <em>[Email]   YangGL at Fudan.edu.cn</em>
 
-************************
 
 ## Publications
 
