@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yang-guangliang/yang-guangliang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<img width="150px"  style="float:right; margin-left:10px;margin-top:50px;" src="https://lh3.googleusercontent.com/yXg0G6LNS7sYof14tvGJJ_kD1gh2-2A29tgvaJfDwECw_KcJWo7gWL5BcYXxd_ETaMLt3kohB-G-9-wcIIYW_teLHnCgVqYVP3BNoAutGC9ZoViRvp9u8IbY-VBMHRsncQ=w1280">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Guangliang Yang
 
-```markdown
-Syntax highlighted code block
+I am an  assistant professor of the School of Computer Science at Fundan University. Before I joined Fudan, I earned the PhD degree from Texas A&M University and was a postdoctoral fellow of Georgia Tech.  
+My research mainly focuses on computer system security. I am interested in  
+ 
+ - discovering novel security issues, and
+ - automating security flaw analysis, detection, and mitigation. 
 
-# Header 1
-## Header 2
-### Header 3
+<em>[Email]   YangGL at Fudan.edu.cn</em>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### Publications
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yang-guangliang/yang-guangliang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
