@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img width="150px"  style="float:right; margin-left:10px;margin-top:30px;" src="./pictures/self.jpg">
+<img width="150px"  style="float:right; margin-left:10px;margin-top:20px;" src="./pictures/self.jpg">
 
 
 I am an assistant professor of the School of Computer Science at Fundan University. Before I joined Fudan, I earned the PhD degree from Texas A&M University and was a postdoctoral fellow of Georgia Tech.  
@@ -20,7 +20,7 @@ My research mainly focuses on computer system security. I am interested in
 
 1. Abusing Hidden Properties to Attack the Node.js Ecosystem.  
 Feng Xiao, Jianwei Huang, Yichang Xiong, **Guangliang Yang**, Hong Hu, Guofei Gu, and Wenke Lee  
-*Usenix Security'21*
+*Security'21*
 
 9. SEPAL: Towards a Large-scale Analysis of SEAndroid Policy Customization.  
 Dongsong Yu, **Guangliang Yang**, Guozhu Meng, Xiaorui Gong, Xiu Zhang, Xiaobo Xiang, Xiaoyu Wang, Yue Jiang, Kai Chen, Wei Zou, Wenke Lee, Wenchang Shi.  
@@ -32,7 +32,7 @@ Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, Guofei Gu.
 
 7. Iframes/Popups Are Dangerous in Mobile WebView: Studying and Mitigating Differential Context Vulnerabilities.  
 **Guangliang Yang**, Jeff Huang, and Guofei Gu.  
-*Usenix Security'19 (Acceptance rate of the winter quarter submissions: 19%=88/465)*
+*Security'19 (Acceptance rate of the winter quarter submissions: 19%=88/465)*
 
 6. Life after Speech Recognition: Fuzzing Semantic Misinterpretation for Voice Assistant Applications.   
 Yangyong Zhang, Lei Xu, Abner Mendoza, **Guangliang Yang**, Phakpoom Chinprutthiwong, and Guofei Gu.   
