@@ -9,8 +9,8 @@ I am an assistant professor of the School of Computer Science at Fundan Universi
 
 My research mainly focuses on computer system security. I am interested in  
  
- - discovering novel security issues, and
- - automating security flaw analysis, detection, and mitigation. 
+ - Investigating the security of system models, and discovering novel vulnerabilities;
+ - Designing and developing novel automated approaches to analyze, detect, and mitigate security flaws.
 
 <em>[Email]   YangGL at Fudan.edu.cn</em>
 
