@@ -18,7 +18,15 @@ My research mainly focuses on computer system security. I am interested in
 ## Publications
 
 
-1. Abusing Hidden Properties to Attack the Node.js Ecosystem.  
+1. Identity Confusion in WebView-based Mobile App-in-app Ecosystems.  
+Lei Zhang, Zhibo Zhang, Ancong Liu, Yinzhi Cao, Xiaohan Zhang, Yanjun Chen, Yuan Zhang, **Guangliang Yang**, Min Yang.  
+Security’22  
+
+2. The Service Worker Hiding in Your Browser: The Next Web Attack Target?    
+Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, Yangyong Zhang, Guofei Gu.   
+*RAID'21*
+
+2. Abusing Hidden Properties to Attack the Node.js Ecosystem.  
 Feng Xiao, Jianwei Huang, Yichang Xiong, **Guangliang Yang**, Hong Hu, Guofei Gu, and Wenke Lee  
 *Security'21*
 
