@@ -76,5 +76,4 @@ Zhaoyan Xu, Antonio Nappa, Robert Baykov, **Guangliang Yang**, Juan Caballero, a
 
 1. Detecting Android malware by reconstructing high-level semantic from low-level syscall and bypassing anti-debug code, 2015  
 2. LibSE: a generic symbolic execution implementation for GNU/Linux & Android , 2014     
-3. big4_bib: the paper list of the top-tier computer security conferences since 2009 [github link]
 4. Feng Xiao, Jianwei Huang, Yichang Xiong, Guangliang, Hong Hu, Guofei Gu, Wenke Lee. “Discovering Hidden Properties to Attack Node.js Ecosystem. ” BlackHat USA, 2020.
