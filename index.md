@@ -18,7 +18,11 @@ My research mainly focuses on computer system security. I am interested in
 ## Publications
 
 
-1. Identity Confusion in WebView-based Mobile App-in-app Ecosystems.  
+1. Collect Responsibly But Deliver Arbitrarily? A Study on Cross-User Privacy Leakage in Mobile Apps.
+Shuai Li, Zhemin Yang, Nan Hua, Peng Liu, Xiaohan Zhang, **Guangliang Yang**, and Min Yang.
+CCS'22
+
+3. Identity Confusion in WebView-based Mobile App-in-app Ecosystems.  
 Lei Zhang, Zhibo Zhang, Ancong Liu, Yinzhi Cao, Xiaohan Zhang, Yanjun Chen, Yuan Zhang, **Guangliang Yang**, Min Yang.  
 Security’22  
 
