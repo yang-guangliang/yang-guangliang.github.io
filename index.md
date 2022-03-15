@@ -23,23 +23,23 @@ Shuai Li, Zhemin Yang, Nan Hua, Peng Liu, Xiaohan Zhang, **Guangliang Yang**, an
 CCS'22
 
 3. Identity Confusion in WebView-based Mobile App-in-app Ecosystems.  
-Lei Zhang, Zhibo Zhang, Ancong Liu, Yinzhi Cao, Xiaohan Zhang, Yanjun Chen, Yuan Zhang, **Guangliang Yang**, Min Yang.  
+Lei Zhang, Zhibo Zhang, Ancong Liu, Yinzhi Cao, Xiaohan Zhang, Yanjun Chen, Yuan Zhang, **Guangliang Yang**, and Min Yang.  
 Security’22  
 
 2. The Service Worker Hiding in Your Browser: The Next Web Attack Target?    
-Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, Yangyong Zhang, Guofei Gu.   
+Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, Yangyong Zhang, and Guofei Gu.   
 *RAID'21*
 
 2. Abusing Hidden Properties to Attack the Node.js Ecosystem.  
-Feng Xiao, Jianwei Huang, Yichang Xiong, **Guangliang Yang**, Hong Hu, Guofei Gu, and Wenke Lee  
+Feng Xiao, Jianwei Huang, Yichang Xiong, **Guangliang Yang**, Hong Hu, Guofei Gu, and Wenke Lee.  
 *Security'21*
 
 9. SEPAL: Towards a Large-scale Analysis of SEAndroid Policy Customization.  
-Dongsong Yu, **Guangliang Yang**, Guozhu Meng, Xiaorui Gong, Xiu Zhang, Xiaobo Xiang, Xiaoyu Wang, Yue Jiang, Kai Chen, Wei Zou, Wenke Lee, Wenchang Shi.  
+Dongsong Yu, **Guangliang Yang**, Guozhu Meng, Xiaorui Gong, Xiu Zhang, Xiaobo Xiang, Xiaoyu Wang, Yue Jiang, Kai Chen, Wei Zou, Wenke Lee, and Wenchang Shi.  
 *WWW'21*
 
 8. Security Study of Service Worker Cross-Site Scripting.  
-Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, Guofei Gu.  
+Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, and Guofei Gu.  
 *ACSAC’20*
 
 7. Iframes/Popups Are Dangerous in Mobile WebView: Studying and Mitigating Differential Context Vulnerabilities.  
@@ -74,6 +74,4 @@ Zhaoyan Xu, Antonio Nappa, Robert Baykov, **Guangliang Yang**, Juan Caballero, a
 
 ## Others
 
-1. Detecting Android malware by reconstructing high-level semantic from low-level syscall and bypassing anti-debug code, 2015  
-2. LibSE: a generic symbolic execution implementation for GNU/Linux & Android , 2014     
-4. Feng Xiao, Jianwei Huang, Yichang Xiong, Guangliang, Hong Hu, Guofei Gu, Wenke Lee. “Discovering Hidden Properties to Attack Node.js Ecosystem. ” BlackHat USA, 2020.
+1. Feng Xiao, Jianwei Huang, Yichang Xiong, Guangliang, Hong Hu, Guofei Gu, Wenke Lee. “Discovering Hidden Properties to Attack Node.js Ecosystem. ” BlackHat USA, 2020.
