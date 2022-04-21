@@ -12,10 +12,10 @@ My research mainly focuses on computer system security. I am interested in
  - Investigating the security of system models, and discovering novel vulnerabilities;
  - Designing and developing novel automated approaches to analyze, detect, and mitigate security flaws.
 
-Email:<em>   YangGL at Fudan.edu.cn</em>    
+Email:<em>   yanggl at fudan.edu.cn</em>    
 Office:<em> Room D6013, NO.2 Interdisciplinary Building, Shanghai 200438</em>  
    
-   **I am always looking for highly motivated students interested in system security! Please send your CV to my email: yanggl at fudan.edu.cn.**
+   **I am always looking for highly motivated students interested in system security. Please send your CV to my email.**
 
 
 ## Publications
