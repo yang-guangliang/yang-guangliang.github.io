@@ -15,7 +15,7 @@ My research mainly focuses on computer system security. I am interested in
 Email:<em>   YangGL at Fudan.edu.cn</em>    
 Office:<em> Room D6013, NO.2 Interdisciplinary Building, Shanghai 200438</em>  
    
-   **I am always looking for highly motivated students interested in computer security! Please send your CV to my email: yanggl at fudan.edu.cn.**
+   **I am always looking for highly motivated students interested in system security! Please send your CV to my email: yanggl at fudan.edu.cn.**
 
 
 ## Publications
