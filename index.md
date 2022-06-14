@@ -5,7 +5,7 @@ layout: default
 <img width="150px"  style="float:right; margin-left:10px;margin-top:20px;" src="./pictures/self.jpg">
 
 
-I am an assistant professor of the School of Computer Science at Fundan University. Before I joined Fudan, I earned my PhD degree from Texas A&M University and was a postdoctoral fellow of Georgia Tech.  
+I am an assistant professor of the School of Computer Science at Fundan University. Before joining Fudan, I earned my PhD degree from Texas A&M University and was a postdoctoral fellow of Georgia Tech.  
 
 My research mainly focuses on computer system security. I am interested in  
  
