@@ -20,13 +20,17 @@ Office:<em> Room D6013, NO.2 Interdisciplinary Building, Shanghai 200438</em>
 ## Publications
 
 
-1. Collect Responsibly But Deliver Arbitrarily? A Study on Cross-User Privacy Leakage in Mobile Apps.  
+1. Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem.  
+Feng Xiao, Zheng Yang, Joey Allen, **Guangliang Yang**, Grant Williams, and Wenke Lee.  
+ACM CCS'22.
+
+2. Collect Responsibly But Deliver Arbitrarily? A Study on Cross-User Privacy Leakage in Mobile Apps.  
 Shuai Li, Zhemin Yang, Nan Hua, Peng Liu, Xiaohan Zhang, **Guangliang Yang**, and Min Yang.  
-CCS'22
+ACM CCS'22
 
 3. Identity Confusion in WebView-based Mobile App-in-app Ecosystems.  
 Lei Zhang, Zhibo Zhang, Ancong Liu, Yinzhi Cao, Xiaohan Zhang, Yanjun Chen, Yuan Zhang, **Guangliang Yang**, and Min Yang.  
-Security’22  
+Usenix Security’22  
 
 2. The Service Worker Hiding in Your Browser: The Next Web Attack Target?    
 Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, Yangyong Zhang, and Guofei Gu.   
@@ -34,7 +38,7 @@ Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, Yangyong Zhang, and 
 
 2. Abusing Hidden Properties to Attack the Node.js Ecosystem.  
 Feng Xiao, Jianwei Huang, Yichang Xiong, **Guangliang Yang**, Hong Hu, Guofei Gu, and Wenke Lee.  
-*Security'21*
+*Usenix Security'21*
 
 9. SEPAL: Towards a Large-scale Analysis of SEAndroid Policy Customization.  
 Dongsong Yu, **Guangliang Yang**, Guozhu Meng, Xiaorui Gong, Xiu Zhang, Xiaobo Xiang, Xiaoyu Wang, Yue Jiang, Kai Chen, Wei Zou, Wenke Lee, and Wenchang Shi.  
@@ -46,23 +50,23 @@ Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, and Guofei Gu.
 
 7. Iframes/Popups Are Dangerous in Mobile WebView: Studying and Mitigating Differential Context Vulnerabilities.  
 **Guangliang Yang**, Jeff Huang, and Guofei Gu.  
-*Security'19 (Acceptance rate of the winter quarter submissions: 19%=88/465)*
+*Usenix Security'19*
 
 6. Life after Speech Recognition: Fuzzing Semantic Misinterpretation for Voice Assistant Applications.   
 Yangyong Zhang, Lei Xu, Abner Mendoza, **Guangliang Yang**, Phakpoom Chinprutthiwong, and Guofei Gu.   
-*NDSS'19 (Acceptance rate: 17%=89/521)*
+*NDSS'19*
 
 5. Towards Fine-grained Network Security Forensics and Diagnosis in the SDN Era.   
 Haopei Wang, **Guangliang Yang**, Phakpoom Chinprutthiwong, Lei Xu, Yangyong Zhang, and Guofei Gu.  
-*CCS'18 (Acceptance rate: 16.6%=134/809)*
+*ACM CCS'18*
 
 4. Study and Mitigation of Origin Stripping Vulnerabilities in Hybrid-postMessage Enabled Mobile Applications.   
 **Guangliang Yang**, Jeff Huang, Guofei Gu, and Abner Mendoza.  
-*S&P'18 (Acceptance rate: 11.5%=63/549)*
+*IEEE S&P'18*
 
 3. Automated Generation of Event-Oriented Exploits in Android Hybrid Apps.    
 **Guangliang Yang**, Jeff Huang, and Guofei Gu.  
-*NDSS'18 (Acceptance rate: 21.5% = 71/331)*
+*NDSS'18*
 
 2. Precisely and Scalably Vetting JavaScript Bridge In Android Hybrid Apps.    
 **Guangliang Yang**, Abner Mendoza, Jialong Zhang, and Guofei Gu.  
@@ -70,7 +74,7 @@ Haopei Wang, **Guangliang Yang**, Phakpoom Chinprutthiwong, Lei Xu, Yangyong Zha
 
 1. AutoProbe: Towards Automatic Active Malicious Server Probing Using Dynamic Binary Analysis.   
 Zhaoyan Xu, Antonio Nappa, Robert Baykov, **Guangliang Yang**, Juan Caballero, and Guofei Gu.  
-*CCS'14*  
+*ACM CCS'14*  
 <span style="color:red">*Finalist for CSAW Best Applied Security Paper Award 2015*<span style="color:red">
   
 
