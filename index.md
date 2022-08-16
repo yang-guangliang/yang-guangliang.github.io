@@ -15,7 +15,8 @@ My research mainly focuses on computer system security. I am interested in
 Email:<em>   yanggl at fudan.edu.cn</em>    
 Office:<em> Room D6013, NO.2 Interdisciplinary Building, Shanghai 200438</em>  
    
-**<code><em>I am looking for students interested in system security. Please feel free to contact me!</em></code>**
+<span style="color:blue">*I am looking for students interested in system security. Please feel free to contact me!*</span>  
+
 
 ## Publications
 
@@ -76,7 +77,7 @@ Haopei Wang, **Guangliang Yang**, Phakpoom Chinprutthiwong, Lei Xu, Yangyong Zha
 1. AutoProbe: Towards Automatic Active Malicious Server Probing Using Dynamic Binary Analysis.   
 Zhaoyan Xu, Antonio Nappa, Robert Baykov, **Guangliang Yang**, Juan Caballero, and Guofei Gu.  
 *ACM CCS'14*  
-<span style="color:red">*Finalist for CSAW Best Applied Security Paper Award 2015*<span style="color:red">
+<span style="color:red">*Finalist for CSAW Best Applied Security Paper Award 2015*</span>
   
 
 ## Others
