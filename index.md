@@ -30,7 +30,8 @@ ACM CCS'22
 
 3. Identity Confusion in WebView-based Mobile App-in-app Ecosystems.  
 Lei Zhang, Zhibo Zhang, Ancong Liu, Yinzhi Cao, Xiaohan Zhang, Yanjun Chen, Yuan Zhang, **Guangliang Yang**, and Min Yang.  
-Usenix Security’22    ![](./pictures/award.svg)
+Usenix Security’22    
+![](./pictures/award.svg)
 
 2. The Service Worker Hiding in Your Browser: The Next Web Attack Target?    
 Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, Yangyong Zhang, and Guofei Gu.   
