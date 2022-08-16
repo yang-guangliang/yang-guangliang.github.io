@@ -5,6 +5,8 @@
      width="100" height="50"
 >
   <text font-size="16" x="10" y="20">
-    <tspan fill="red">Distinguished Paper Award</tspan>
+    <tspan fill="red">Distinguished</tspan> 
+       <tspan fill="red">Paper</tspan> 
+       <tspan fill="red"> Award</tspan> 
   </text>
 </svg>
