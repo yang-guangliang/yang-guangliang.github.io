@@ -32,6 +32,9 @@ ACM CCS'22
 Lei Zhang, Zhibo Zhang, Ancong Liu, Yinzhi Cao, Xiaohan Zhang, Yanjun Chen, Yuan Zhang, **Guangliang Yang**, and Min Yang.  
 Usenix Security’22  
 
+
+   **<em>Distinguished Paper Award</em>**  
+
 2. The Service Worker Hiding in Your Browser: The Next Web Attack Target?    
 Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, Yangyong Zhang, and Guofei Gu.   
 *RAID'21*
