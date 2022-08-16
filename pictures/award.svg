@@ -4,5 +4,5 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="300" height="30"
 >
-  <text font-size="16" x="40" y="20"  fill="red">Distinguished Paper Award</text>
+  <text font-size="16" x="10" y="20"  fill="red">Distinguished Paper Award</text>
 </svg>
