@@ -78,7 +78,10 @@ Haopei Wang, **Guangliang Yang**, Phakpoom Chinprutthiwong, Lei Xu, Yangyong Zha
 Zhaoyan Xu, Antonio Nappa, Robert Baykov, **Guangliang Yang**, Juan Caballero, and Guofei Gu.  
 *ACM CCS'14*  
 <span style="color:red">*Finalist for CSAW Best Applied Security Paper Award 2015*</span>
-  
+ 
+## Professional Services
+- Program Committee Member
+   - Applied Computer Security Applications Conference (ACSAC) 2023 
 
 ## Others
 
