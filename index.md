@@ -21,17 +21,21 @@ Office:<em> Room D6013, NO.2 Interdisciplinary Building, Shanghai 200438</em>
 ## Publications
 
 
-1. Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem.  
+1. Notice the Imposter! A Study on User Tag Spoofing Attack in Mobile Apps.   
+shuai li, Zhemin Yang, **Guangliang Yang**, Hange Zhang, Nan Hua, Yurui Huang, and Min Yang.  
+*USENIX Security'23*
+
+3. Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem.  
 Feng Xiao, Zheng Yang, Joey Allen, **Guangliang Yang**, Grant Williams, and Wenke Lee.  
-ACM CCS'22.
+*ACM CCS'22*
 
 2. Collect Responsibly But Deliver Arbitrarily? A Study on Cross-User Privacy Leakage in Mobile Apps.  
 Shuai Li, Zhemin Yang, Nan Hua, Peng Liu, Xiaohan Zhang, **Guangliang Yang**, and Min Yang.  
-ACM CCS'22
+*ACM CCS'22*
 
 3. Identity Confusion in WebView-based Mobile App-in-app Ecosystems.  
 Lei Zhang, Zhibo Zhang, Ancong Liu, Yinzhi Cao, Xiaohan Zhang, Yanjun Chen, Yuan Zhang, **Guangliang Yang**, and Min Yang.  
-Usenix Security’22     
+*Usenix Security’22*     
 <span style="color:red">*Distinguished Paper Award*</span>  
 
 2. The Service Worker Hiding in Your Browser: The Next Web Attack Target?    
