@@ -5,17 +5,15 @@ layout: default
 <img width="150px"  style="float:right; margin-left:10px;margin-top:20px;" src="./pictures/self.jpg">
 
 
-I am an assistant professor of the School of Computer Science at Fundan University. Before joining Fudan, I earned my PhD degree from Texas A&M University and was a postdoctoral fellow of Georgia Tech.  
+I am an assistant professor of the School of Computer Science at Fundan University. Before joining Fudan, I earned my PhD degree from Texas A&M University and was a postdoctoral fellow of Georgia Tech. 
 
-My research mainly focuses on computer system security. I am interested in  
- 
- - Investigating and discovering novel vulnerabilities in security models;
- - Designing and developing practical approaches to automate security analysis and mitigation.
+My research mainly focuses on system security and AI security. My interests include practicalizing automatic security-verifying techniques (e.g., programming language and AI), and developing reliable security defense systems.
+   
+<span style="color:blue">*I am always looking for students interested in computer security. Please feel free to contact me!*</span>  
+
 
 Email:<em>   yanggl at fudan.edu.cn</em>    
 Office:<em> Room D6013, NO.2 Interdisciplinary Building, Shanghai 200438</em>  
-   
-<span style="color:blue">*I am looking for students interested in system security. Please feel free to contact me!*</span>  
 
 
 ## Publications
