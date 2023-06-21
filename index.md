@@ -84,7 +84,3 @@ Zhaoyan Xu, Antonio Nappa, Robert Baykov, **Guangliang Yang**, Juan Caballero, a
 ## Professional Services
 - Program Committee Member
    - Applied Computer Security Applications Conference (ACSAC) 2023 
-
-## Others
-
-1. Feng Xiao, Jianwei Huang, Yichang Xiong, Guangliang, Hong Hu, Guofei Gu, Wenke Lee. “Discovering Hidden Properties to Attack Node.js Ecosystem. ” BlackHat USA, 2020.
