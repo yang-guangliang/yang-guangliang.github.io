@@ -19,11 +19,15 @@ Office:<em> Room D6013, NO.2 Interdisciplinary Building, Shanghai 200438</em>
 ## Publications
 
 
-1. Notice the Imposter! A Study on User Tag Spoofing Attack in Mobile Apps.   
+1. NestFuzz: Enhancing Fuzzing with Comprehensive Understanding of Input Processing Logic.    
+   Peng Deng, Zhemin Yang, Lei Zhang, **Guangliang Yang**, Wenzheng Hong, Yuan Zhang, and Min Yang.    
+   *ACM CCS'23*   
+   
+3. Notice the Imposter! A Study on User Tag Spoofing Attack in Mobile Apps.   
 Shuai li, Zhemin Yang, **Guangliang Yang**, Hange Zhang, Nan Hua, Yurui Huang, and Min Yang.  
 *USENIX Security'23*
 
-3. Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem.  
+4. Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem.  
 Feng Xiao, Zheng Yang, Joey Allen, **Guangliang Yang**, Grant Williams, and Wenke Lee.  
 *ACM CCS'22*
 
