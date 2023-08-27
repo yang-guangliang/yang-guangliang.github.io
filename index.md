@@ -18,11 +18,9 @@ Office:<em> Room D6013, NO.2 Interdisciplinary Building, Shanghai 200438</em>
 
 ## Publications
 
-<!---
 1. NestFuzz: Enhancing Fuzzing with Comprehensive Understanding of Input Processing Logic.    
    Peng Deng, Zhemin Yang, Lei Zhang, **Guangliang Yang**, Wenzheng Hong, Yuan Zhang, and Min Yang.    
    *ACM CCS 2023*   
-   -->
 
 2. JASMINE: Scale up JavaScript Static Security Analysis with Computation-based Semantic Explanation.  
 Feng Xiao, Zhongfu Su, **Guangliang Yang**, and Wenke Lee.   
