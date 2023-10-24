@@ -5,9 +5,9 @@ layout: default
 <img width="150px"  style="float:right; margin-left:10px;margin-top:20px;" src="./pictures/self.jpg">
 
 
-I am an assistant professor of the School of Computer Science at Fundan University. Before joining Fudan, I earned my PhD degree from Texas A&M University and was a postdoctoral fellow of Georgia Tech. 
+I am currently an Assistant Professor at the School of Computer Science at Fudan University. I completed my Ph.D. program at Texas A&M University, followed by a postdoctoral fellowship at Georgia Tech.
 
-My research mainly focuses on system security and AI security. I am interested in practicalizing security verifying and mitigating techniques and systems.
+My primary research includes computer code security and AI security. I am particularly passionate about devising and improving security verification and mitigation approaches for practical and real-world utilization. My mission is to bridge the gap between cutting-edge security research and the development of effective security systems.
    
 <span style="color:blue">*I am looking for students interested in computer security. Please feel free to contact me!*</span>  
 
