@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+nav_order: 2
 ---
 
 ## 2024

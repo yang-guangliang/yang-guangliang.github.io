@@ -2,6 +2,7 @@
 layout: page
 title: Students
 permalink: /students/
+nav_order: 4
 ---
 
 

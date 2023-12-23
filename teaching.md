@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+nav_order: 3
 ---
 
 ## Teaching

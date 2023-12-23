@@ -1,6 +1,7 @@
 ---
 layout: default
 title: home
+nav_order: 1
 ---
 
 <img width="150px"  style="float:right; margin-left:10px;margin-top:20px;" src="./pictures/self.jpg">
