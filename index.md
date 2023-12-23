@@ -1,7 +1,6 @@
 ---
 layout: default
 title: home
-permalink: /home/
 ---
 
 <img width="150px"  style="float:right; margin-left:10px;margin-top:20px;" src="./pictures/self.jpg">
