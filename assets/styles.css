@@ -16,8 +16,8 @@ main {
 }
 
 h3, h4 {
-    margin-left: -10px; /* Moves slightly to the left */
-    margin-bottom: -10px; /* Reduces space after the heading */
+    /* margin-left: -20px;  */
+    margin-bottom: -10px;
 }
 
 nav {
