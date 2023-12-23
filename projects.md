@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 
-# A general-purpose foundational program analysis platform
+### A general-purpose foundational program analysis platform
 
 
-# AI infrastructure
+### AI infrastructure

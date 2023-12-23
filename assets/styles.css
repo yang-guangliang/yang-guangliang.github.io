@@ -1,8 +1,5 @@
-/* Basic body styling */
-body {
-    /* font-family: Arial, sans-serif;
-     * line-height: 1.6; */
-    padding: 20px;
+main {
+    width:90% /* or you can also set 900px*/
 }
 
 nav {
@@ -38,7 +35,6 @@ nav {
 
 
 hr {
-
     border: none;
     height: 1px;
     background-color: black;

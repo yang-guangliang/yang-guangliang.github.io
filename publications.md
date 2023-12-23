@@ -4,11 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-## 2024
+### 2024
 
 - Feng Xiao, Zhongfu Su, **Guangliang Yang**, and Wenke Lee. JASMINE: Scale up JavaScript Static Security Analysis with Computation-based Semantic Explanation. *IEEE S&P 2024*.
 
-## 2023 and before
+### 2023 and before
 
 - Peng Deng, Zhemin Yang, Lei Zhang, **Guangliang Yang**, Wenzheng Hong, Yuan Zhang, and Min Yang. NestFuzz: Enhancing Fuzzing with Comprehensive Understanding of Input Processing Logic. *ACM CCS 2023*.   
     

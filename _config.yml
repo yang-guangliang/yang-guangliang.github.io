@@ -3,8 +3,6 @@ description: >-
    The home page of Guangliang Yang
 
 nav:
-  - title: Home
-    url: /
   - title: Projects
     url: /projects/
   - title: Publications
