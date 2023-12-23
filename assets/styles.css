@@ -1,5 +1,18 @@
+/* Base styles for main - applicable for mobile devices */
 main {
-    width:90% /* or you can also set 900px*/
+    width: 100%; /* Full width on mobile devices */
+    margin: 20px 0; /* Adjust margin as needed */
+    /* Additional styling for main content... */
+}
+
+/* CSS styles for larger screens */
+@media screen and (min-width: 768px) { /* Adjust the breakpoint as needed */
+    main {
+        width: 80%; /* 80% width on larger screens */
+        margin: 20px auto; /* Centered with auto margins */
+        max-width: 1200px; /* Optional: Limit the maximum width */
+        /* Additional styling for larger screens... */
+    }
 }
 
 nav {
