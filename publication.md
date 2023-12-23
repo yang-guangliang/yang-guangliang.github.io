@@ -18,7 +18,7 @@ permalink: /publication/
 
 - Shuai Li, Zhemin Yang, Nan Hua, Peng Liu, Xiaohan Zhang, **Guangliang Yang**, and Min Yang. Collect Responsibly But Deliver Arbitrarily? A Study on Cross-User Privacy Leakage in Mobile Apps. *ACM CCS 2022*.
 
-- Lei Zhang, Zhibo Zhang, Ancong Liu, Yinzhi Cao, Xiaohan Zhang, Yanjun Chen, Yuan Zhang, **Guangliang Yang**, and Min Yang.   Identity Confusion in WebView-based Mobile App-in-app Ecosystems. *Usenix Security 2022*.
+- Lei Zhang, Zhibo Zhang, Ancong Liu, Yinzhi Cao, Xiaohan Zhang, Yanjun Chen, Yuan Zhang, **Guangliang Yang**, and Min Yang.   Identity Confusion in WebView-based Mobile App-in-app Ecosystems. *Usenix Security 2022*.  
 <span style="color:red">*Distinguished Paper Award*</span>  
 
 - Phakpoom Chinprutthiwong, Raj Vardhan, **Guangliang Yang**, Yangyong Zhang, and Guofei Gu. The Service Worker Hiding in Your Browser: The Next Web Attack Target?  *RAID 2021*.
