@@ -8,7 +8,7 @@ title: home
 
 ### Intro
 
-I am currently an Assistant Professor at the School of Computer Science at Fudan University. 
+I am an Assistant Professor at the School of Computer Science at Fudan University. 
 
 My research focuses on computer and AI security. I am particularly passionate about devising and improving security verification and mitigation approaches for practical and real-world utilization. Our mission is to bridge the gap between cutting-edge security research and the development of effective and reliable security systems.
    
