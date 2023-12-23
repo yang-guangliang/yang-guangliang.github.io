@@ -20,9 +20,9 @@ My research focuses on computer and AI security. I am particularly passionate ab
 
 ### News
 - I am honored to be invited as a TPC member for CCS 2024.  
-- Our functional work of improving static program analysis is accepted by S&P'24. Congrats Feng!  
-- Our fuzzing work for structural import is accepted by CCS'23. Congrats Peng! 
-- I am invited to be a TPC member of Acsec'23. Welcome to submit a paper.  
+- Our foundational work of improving static program analysis is accepted by S&P'24. Congrats Feng!  
+- Our fuzzing work for handling structural input is accepted by CCS'23. Congrats Peng! 
+- I am invited to be a TPC member of ACSEC'23. Welcome to submit a paper.  
 
 
 ### Selected Publications
