@@ -14,7 +14,7 @@ My research focuses on computer and AI security. I am particularly passionate ab
    
 <span style="color:blue">*I am looking for students interested in computer and AI security. Please feel free to contact me!*</span>  
 
-<em> Office: Room D6013, NO.2 Interdisciplinary Building, Shanghai 200438</em>  
+<em> Office: Room D6013, NO.2 Interdisciplinary Building, Fudan JiangWan, Shanghai</em>  
 <em> E-Mail: yanggl at fudan.edu.cn</em>    
 
 
