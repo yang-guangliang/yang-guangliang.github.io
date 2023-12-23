@@ -1,15 +1,14 @@
 ---
 layout: default
 title: home
-nav_order: 1
 ---
 
 <header>
             <nav>
                 <ul class="nav__links">
-                    <li><a href="services.html">Services</a></li>
-                    <li><a href="projects.html">Projects</a></li>
-                    <li><a href="about.html">About</a></li>
+                    <li><a href="publications">Publications</a></li>
+                    <li><a href="service">Service</a></li>
+                    <li><a href="teaching">Teaching</a></li>
                 </ul>
             </nav>
 </header>
