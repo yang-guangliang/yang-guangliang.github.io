@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Service
+permalink: /service/
 ---
 
 ## Program Committee Member
