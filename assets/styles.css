@@ -1,7 +1,7 @@
 /* Base styles for main - applicable for mobile devices */
 main {
     width: 100%; /* Full width on mobile devices */
-    margin: 20px 0; /* Adjust margin as needed */
+    margin: 20px ; /* Adjust margin as needed */
     /* Additional styling for main content... */
 }
 
@@ -12,7 +12,12 @@ main {
         margin: 20px auto; /* Centered with auto margins */
         max-width: 1200px; /* Optional: Limit the maximum width */
         /* Additional styling for larger screens... */
-    }
+     }
+}
+
+h3, h4 {
+    margin-left: -10px; /* Moves slightly to the left */
+    margin-bottom: 10px; /* Reduces space after the heading */
 }
 
 nav {
