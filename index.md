@@ -4,10 +4,12 @@ title: home
 ---
 
 
-<img width="150px"  style="float:right; margin-left:100px;margin-top:20px;" src="./pictures/self.jpg">
+<img width="150px"  style="float:right; margin-left:10px;margin-top:20px;" src="./pictures/self.jpg">
 
 ### Intro
 
+<div style="margin-left:13pt; margin-right:40pt">
+   
 I am an Assistant Professor at the School of Computer Science at Fudan University. 
 
 My research focuses on computer and AI security. I am particularly passionate about devising and improving security verification and mitigation approaches for practical and real-world utilization. Our mission is to bridge the gap between cutting-edge security research and the development of effective and reliable security systems.
@@ -17,6 +19,7 @@ My research focuses on computer and AI security. I am particularly passionate ab
 <em> Office: Room D6013, NO.2 Interdisciplinary Building, Shanghai 200438</em>  
 <em> E-Mail: yanggl at fudan.edu.cn</em>    
 
+</div>
 
 ### News
 - I am honored to be invited as a TPC member for CCS 2024.  
