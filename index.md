@@ -4,6 +4,16 @@ title: home
 nav_order: 1
 ---
 
+<header>
+            <nav>
+                <ul class="nav__links">
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="projects.html">Projects</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </nav>
+</header>
+
 <img width="150px"  style="float:right; margin-left:10px;margin-top:20px;" src="./pictures/self.jpg">
 
 
