@@ -9,7 +9,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #f4f4f4; /* Adjust background color */
+    /* background: #f4f4f4; */
     padding: 10px 20px;
     flex-wrap: nowrap; /* Prevent wrapping */
 }
@@ -20,7 +20,7 @@ nav {
 }
 
 .nav-left a {
-    color: #333; /* Adjust text color */
+    /* color: #333;  */
     text-decoration: none;
     white-space: nowrap; /* Prevent wrapping of text */
 }
@@ -34,4 +34,13 @@ nav {
 
 .nav-right ul li {
     margin-left: 20px;
+}
+
+
+hr {
+
+    border: none;
+    height: 1px;
+    background-color: black;
+    margin-top: 0;
 }
