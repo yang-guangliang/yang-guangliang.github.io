@@ -1,7 +1,9 @@
-# title: Guangliang Yang  @  Fudan University
+title: Guangliang Yang  @  Fudan University
+description: Guangliang Yang  @  Fudan University
+
 header_pages:
-   - index.html
+   - /
    - publication.html
    - service.html
    - teaching.html
-description: Guangliang Yang  @  Fudan University
+
