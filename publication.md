@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publication
+permalink: /publication/
+---
+
 ## 2024
 
 1. JASMINE: Scale up JavaScript Static Security Analysis with Computation-based Semantic Explanation.  
