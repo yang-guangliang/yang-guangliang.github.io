@@ -1,7 +1,3 @@
----
-layout: default
-title: home
----
 
 <header>
             <nav>
@@ -12,6 +8,11 @@ title: home
                 </ul>
             </nav>
 </header>
+
+---
+layout: default
+title: home
+---
 
 <img width="150px"  style="float:right; margin-left:10px;margin-top:20px;" src="./pictures/self.jpg">
 
