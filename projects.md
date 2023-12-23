@@ -12,4 +12,4 @@ We are working on this promising project to provide a new generation security an
 
 ### AI infrastructure
 
-We are providing a new AI-inference platform.
+We are providing a general AI-inference platform.
