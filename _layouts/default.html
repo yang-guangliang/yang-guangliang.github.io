@@ -10,13 +10,18 @@
 
 <body>
     <header>
-        <nav>
+      <nav>
+        <div class="nav-left">
+            <a href="/">Guangliang Yang @ Fudan</a>
+        </div>
+        <div class="nav-right">
             <ul>
                 {% for item in site.nav %}
                 <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
                 {% endfor %}
             </ul>
-        </nav>
+        </div>
+      </nav>
     </header>
 
     <main>

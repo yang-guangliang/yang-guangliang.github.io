@@ -1,14 +1,3 @@
-
-<header>
-            <nav>
-                <ul class="nav__links">
-                    <li><a href="publications">Publications</a></li>
-                    <li><a href="service">Service</a></li>
-                    <li><a href="teaching">Teaching</a></li>
-                </ul>
-            </nav>
-</header>
-
 ---
 layout: default
 title: home
