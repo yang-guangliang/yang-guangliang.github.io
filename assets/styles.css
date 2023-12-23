@@ -5,19 +5,24 @@ body {
     padding: 20px;
 }
 
-
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #f4f4f4; /* Light grey background */
-    color: #333; /* Adjust text color if needed */
+    background: #f4f4f4; /* Adjust background color */
     padding: 10px 20px;
+    flex-wrap: nowrap; /* Prevent wrapping */
 }
 
-.nav-left a, .nav-right ul li a {
-    color: #333; /* Adjust link color if needed */
+.nav-left, .nav-right {
+    display: flex;
+    align-items: center;
+}
+
+.nav-left a {
+    color: #333; /* Adjust text color */
     text-decoration: none;
+    white-space: nowrap; /* Prevent wrapping of text */
 }
 
 .nav-right ul {
@@ -29,24 +34,4 @@ nav {
 
 .nav-right ul li {
     margin-left: 20px;
-}
-
-.nav-right ul li a:hover:not(.active) {
-    background-color: #ddd; /* Hover background color */
-    color: #333; /* Hover text color */
-}
-
-.nav-right ul li a.active {
-    background-color: #04AA6D; /* Active link background color */
-    color: white; /* Active link text color */
-}
-
-
-/* Footer styling */
-footer {
-    text-align: center;
-    padding: 20px 0;
-    position: relative;
-    bottom: 0;
-    width: 100%;
 }
