@@ -1,9 +1,14 @@
 title: Guangliang Yang  @  Fudan University
-description: Guangliang Yang  @  Fudan University
+description: The home page of Guangliang Yang
 
-header_pages:
-   - /
-   - publication.html
-   - teaching.html
-   - service.html
-
+nav:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Teaching
+    url: /teaching/
+  - title: Service
+    url: /service/
+  - title: Students
+    url: /students/
