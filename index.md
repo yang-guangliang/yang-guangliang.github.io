@@ -10,7 +10,7 @@ title: home
    
 I am an Assistant Professor at the School of Computer Science at Fudan University. 
 
-My research focuses on computer and AI security. I am particularly passionate about devising and improving security verification and mitigation approaches for practical and real-world utilization. Our mission is to bridge the gap between cutting-edge security research and the development of effective and reliable security systems.
+My research focuses on computer system and AI security. I am particularly passionate about devising and improving security verification and mitigation approaches for practical and real-world utilization. Our mission is to bridge the gap between cutting-edge security research and the development of effective and reliable security systems.
    
 <span style="color:blue">*I am looking for students interested in computer and AI security. Please feel free to contact me!*</span>  
 
@@ -20,7 +20,7 @@ My research focuses on computer and AI security. I am particularly passionate ab
 
 
 ### News
-- I am honored to be invited as a TPC member for CCS 2024.  
+- I am honored to be invited as a TPC member of CCS'24 and Usenix Security'24. Welcome to submit a paper.   
 - Our foundational work of improving static program analysis is accepted by S&P'24. Congrats Feng!  
 - Our fuzzing work for handling structural input is accepted by CCS'23. Congrats Peng! 
 - I am invited to be a TPC member of ACSEC'23. Welcome to submit a paper.  
