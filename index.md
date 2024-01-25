@@ -10,7 +10,7 @@ title: home
    
 I am an Assistant Professor in the School of Computer Science at Fudan University, and director of the Code Security Research group. 
 
-My research focuses on computer system and AI security. Our team is particularly passionate about devising novel security verification and mitigation approaches for practical and real-world utilization. Our mission is to bridge the gap between cutting-edge security research and the development of effective and reliable security systems.
+My research focuses on computer system and AI security. Our team is particularly passionate about devising novel security verification and mitigation approaches for practical and real-world utilization. Our mission is to bridge the gap between cutting-edge security research and effective and reliable security systems.
    
 <span style="color:blue">*We are looking for students interested in computer security. Please feel free to contact me!*</span>  
 
