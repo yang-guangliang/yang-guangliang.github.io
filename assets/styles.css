@@ -1,3 +1,8 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
 /* Base styles for main - applicable for mobile devices */
 main {
     width: 100%; /* Full width on mobile devices */
@@ -25,9 +30,13 @@ nav {
     justify-content: space-between;
     align-items: center;
     background: black; /* Background color set to black */
-    color: #F5F5F5; /* Font color set to grey-white */
     padding: 10px 20px;
     flex-wrap: nowrap; /* Prevent wrapping */
+}
+
+nav a {
+    color: #F5F5F5; /* Grey-white color for links */
+    text-decoration: none; /* Optional: Removes underline from links */
 }
 
 .nav-left, .nav-right {
