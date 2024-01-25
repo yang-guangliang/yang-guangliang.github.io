@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### [Profile](https://scholar.google.com/citations?user=bh1JfPkAAAAJ&hl=en) at Google Scholar
 
-###
+   
 
 ### Publications
 
