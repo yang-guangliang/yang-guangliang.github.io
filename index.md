@@ -26,7 +26,7 @@ My research focuses on computer system and AI security. Our team is particularly
 - I am invited to be a TPC member of ACSEC'23. Welcome to submit a paper.  
 
 
-### Selected Publications ([full list](./publications))
+### Selected Publications ([Full List](./publications))
 
 - Feng Xiao, Zhongfu Su, **Guangliang Yang**, and Wenke Lee. JASMINE: Scale up JavaScript Static Security Analysis with Computation-based Semantic Explanation. *IEEE S&P 2024*.
 
