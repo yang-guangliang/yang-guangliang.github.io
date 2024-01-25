@@ -24,7 +24,8 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* background: #f4f4f4; */
+    background: black; /* Background color set to black */
+    color: #F5F5F5; /* Font color set to grey-white */
     padding: 10px 20px;
     flex-wrap: nowrap; /* Prevent wrapping */
 }
