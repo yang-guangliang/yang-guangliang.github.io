@@ -20,7 +20,7 @@ My research focuses on computer system and AI security. Our team is particularly
 
 
 ### News
-- I am honored to be invited as a TPC member of CCS'24 and Usenix Security'24. Welcome to submit a paper.   
+- I am honored to be invited as a TPC member of ACM CCS'24 and Usenix Security'24. Welcome to submit a paper.   
 - Our foundational work of improving static program analysis is accepted by S&P'24. Congrats Feng!  
 - Our fuzzing work for handling structural input is accepted by CCS'23. Congrats Peng! 
 - I am invited to be a TPC member of ACSEC'23. Welcome to submit a paper.  
