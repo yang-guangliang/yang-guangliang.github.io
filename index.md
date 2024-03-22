@@ -10,7 +10,7 @@ title: home
    
 I am an Assistant Professor in the School of Computer Science at Fudan University, and director of the Code Security Research group. 
 
-My research focuses on computer system and AI security. Our team is particularly passionate about devising novel security verification and mitigation approaches for practical and real-world utilization. Our mission is to bridge the gap between cutting-edge security research and effective and reliable security systems.
+My research focuses on computer system and AI security. Our team is passionate about devising novel security verification and mitigation approaches for practical and real-world utilization, and bridging the gap between cutting-edge security research and effective and reliable security systems.
    
 <span style="color:blue">*We are looking for students interested in computer security. Please feel free to contact me!*</span>  
 
@@ -20,6 +20,8 @@ My research focuses on computer system and AI security. Our team is particularly
 
 
 ### News
+- I am honored to be invited as a TPC member of IEEE S&P'25. Welcome to submit a paper.   
+- Our Android security work focusing on component issues has been accepted by FSE'24. Congrats Keke!
 - I am honored to be invited as a TPC member of ACM CCS'24 and Usenix Security'24. Welcome to submit a paper.   
 - Our foundational work of improving static program analysis is accepted by S&P'24. Congrats Feng!  
 - Our fuzzing work for handling structural input is accepted by CCS'23. Congrats Peng! 
