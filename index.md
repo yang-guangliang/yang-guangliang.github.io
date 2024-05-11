@@ -8,9 +8,9 @@ title: home
 
 ### Intro
    
-I am an Assistant Professor in the School of Computer Science at Fudan University. My research focuses on computer system security and AI security. Our team is passionate about devising novel security verification and mitigation approaches for practical and real-world utilization, and bridging the gap between cutting-edge security research and effective and reliable security systems.
+I am an Assistant Professor in the School of Computer Science at Fudan University. My research focuses on computer system security and AI security. We are dedicated to delivering a novel, reliable, and effective security analysis and defense approach and addressing the evolving challenges in the digital world.
    
-<span style="color:blue">*We are looking for students interested in computer security. Please feel free to contact me!*</span>  
+<span style="color:blue">*We are always looking for students interested in computer security. Please feel free to contact me!*</span>  
 
 <em> Office: Room D6013, NO.2 Interdisciplinary Building, Fudan JiangWan, Shanghai</em>  
 <em> Email: yanggl at fudan.edu.cn</em>    
