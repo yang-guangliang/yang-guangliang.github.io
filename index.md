@@ -12,8 +12,8 @@ I am an assistant professor in the School of Computer Science at Fudan Universit
    
 <span style="color:blue">*We are looking for excited and motivated students to work with. Please feel free to contact us!*</span>  
 
-<p> Office: Room D6013, NO.2 Interdisciplinary Building, Fudan JiangWan, Shanghai</p>  
-<p> Email: yanggl at fudan.edu.cn</p>    
+- <em>Office: Room D6013, NO.2 Interdisciplinary Building, Fudan JiangWan, Shanghai</em>
+- <em>Email: yanggl at fudan.edu.cn</em>
 
 
 ### News
