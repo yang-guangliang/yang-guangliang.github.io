@@ -28,11 +28,11 @@ h1, h2, h3, h4 {
 p {
     margin-bottom: 1em; /* Space between paragraphs */
     line-height: 1.4;
-    text-indent: 13px;
 }
 
 li {
-  line-height: 1.4; /* This will make the line height 1.5 times the font size */
+    line-height: 1.4; /* This will make the line height 1.5 times the font size */
+    margin-left: -10px;
 }
 
 div.special-text {
