@@ -1,7 +1,6 @@
 html, body {
     margin: 0;
     padding: 0;
-    line-height: 1.6;
     padding: 20px;
 }
 
@@ -27,6 +26,10 @@ h3, h4 {
     margin-bottom: -10px;
 }
 
+body {
+   line-height: 1.6; /* This sets the line spacing to 1.6 times the font size */
+}
+
 h1, h2, h3, h4 {
     line-height: 1.2; /* Tighter line spacing for headings */
 }
@@ -34,6 +37,11 @@ h1, h2, h3, h4 {
 
 p {
     margin-bottom: 1em; /* Space between paragraphs */
+    line-height: 2;
+}
+
+div.special-text {
+   line-height: 1.8;
 }
 
 nav {
