@@ -31,8 +31,11 @@ p {
 }
 
 li {
-    line-height: 1.4; /* This will make the line height 1.5 times the font size */
-    margin-left: -10px;
+    line-height: 1.4; /* This will make the line height 1.5 times the font size */  
+}
+
+ul {
+    margin-left: -10pt;
 }
 
 div.special-text {
