@@ -1,6 +1,8 @@
 html, body {
     margin: 0;
     padding: 0;
+    line-height: 1.6;
+    padding: 20px;
 }
 
 /* Base styles for main - applicable for mobile devices */
@@ -23,6 +25,15 @@ main {
 h3, h4 {
     /* margin-left: -20px;  */
     margin-bottom: -10px;
+}
+
+h1, h2, h3, h4 {
+    line-height: 1.2; /* Tighter line spacing for headings */
+}
+
+
+p {
+    margin-bottom: 1em; /* Space between paragraphs */
 }
 
 nav {
