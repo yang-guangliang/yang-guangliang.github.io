@@ -8,7 +8,7 @@ title: home
 
 ### Intro
    
-I am an assistant professor in the School of Computer Science at Fudan University and the leader of the code security research group (FDU-CSR). My research mainly focuses on computer system security, and my research interests are broad, including vulnerability analysis, operating system security, web security, and mobile security. My group is dedicated to delivering effective and reliable security analysis and defense approaches and addressing the evolving challenges in the computer security world.
+I am an assistant professor in the School of Computer Science at Fudan University and the leader of the code security research group (FDU-CSR). My research mainly focuses on computer system security, and my research interests are broad, covering vulnerability analysis, operating system security, web security, and mobile security. My group is dedicated to delivering effective and reliable security analysis and defense approaches and addressing the evolving challenges in the computer security world.
    
 <span style="color:blue">*We are looking for excited and motivated students to work with. Please feel free to contact us!*</span>  
 
