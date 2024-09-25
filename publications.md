@@ -10,9 +10,11 @@ permalink: /publications/
 
 ### Publications
 
-1. Zhibo Zhang, Lei Zhang, Guangliang Yang, Yanjun Chen, Jiahao Xu, Min Yang. The Dark Forest: Understanding Security Risks of Cross-Party Delegated Resources in Mobile App-in-App Ecosystems. *IEEE Transactions on Information Forensics and Security* 2024.
+1. Yizhe Shi, Zhemin Yang, Kangwei Zhong, Guangliang Yang, Yifan Yang, Xiaohan Zhang, Min Yang. The Skeleton Keys: A Large Scale Analysis of Credential Leakage in Mini-apps. NDSS 2024.
 
-2. Keke Lian, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang. Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications. *FSE* 2024.  
+2. Zhibo Zhang, Lei Zhang, Guangliang Yang, Yanjun Chen, Jiahao Xu, Min Yang. The Dark Forest: Understanding Security Risks of Cross-Party Delegated Resources in Mobile App-in-App Ecosystems. *IEEE Transactions on Information Forensics and Security* 2024.
+
+3. Keke Lian, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang. Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications. *FSE* 2024.  
 <span style="color:red">*ACM SIGSOFT Distinguished Paper award*</span>  
    
 4. Feng Xiao, Zhongfu Su, Guangliang Yang, and Wenke Lee. JASMINE: Scale up JavaScript Static Security Analysis with Computation-based Semantic Explanation. *IEEE S&P* 2024.
