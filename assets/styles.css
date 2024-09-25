@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
-    padding: 0;
     padding: 20px;
+    line-height: 1.4;
 }
 
 /* Base styles for main - applicable for mobile devices */
@@ -21,19 +21,10 @@ main {
      }
 }
 
-h3, h4 {
-    /* margin-left: -20px;  */
+h1, h2, h3, h4 {
+    line-height: 1.1; /* Tighter line spacing for headings */
     margin-bottom: -10px;
 }
-
-body {
-   line-height: 1.6; /* This sets the line spacing to 1.6 times the font size */
-}
-
-h1, h2, h3, h4 {
-    line-height: 1.2; /* Tighter line spacing for headings */
-}
-
 
 p {
     margin-bottom: 1em; /* Space between paragraphs */
