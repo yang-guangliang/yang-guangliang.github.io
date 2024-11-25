@@ -17,12 +17,9 @@
         </div>
         <div class="nav-right">
           <ul>
-            <li><a href="./">{{ Home }}</a></li>
-            <li><a href="projects">{{ Projects }}</a></li>
-            <li><a href="publications">{{ Publications }}</a></li>
-            <li><a href="service">{{ Service }}</a></li>
-            <li><a href="teaching">{{ Teaching }}</a></li>
-            <li><a href="misc">{{ Misc }}</a></li>
+            {% for item in site.nav %}
+            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+            {% endfor %}
           </ul>
         </div>
       </nav>
