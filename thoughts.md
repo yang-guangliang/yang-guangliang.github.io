@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Misc
-permalink: /misc/
+title: Thoughts
+permalink: /thoughts/
 ---
 
 ### 2024年12月 带领同学第一次写科技论文
