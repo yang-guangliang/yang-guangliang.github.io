@@ -29,7 +29,7 @@ permalink: /thoughts/
 
 回国后第一项工作，只能感慨做基础工作太难了，自己敲代码，做了2年半。可以竞争下人生高光时刻了
 
-![image](pictures/2024.commit.png =650x)
+<img src="pictures/2024.commit.png" width="600" />
 
 
 ## 2024年11月 关于某项目指标中的《准确率、精确率、召回率》 
