@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Publications
 
-1. Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, Bocheng Xiang, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang. Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, Bocheng Xiang, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang. Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection. *USENIX Security* 2025.
+1. Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, Bocheng Xiang, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang. Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection. *USENIX Security* 2025.
 
 2. Fengyu Liu, Youkun Shi, Yuan Zhang, Guangliang Yang, Enhao Li, Min Yang. MOCGuard: Accurately Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications. *IEEE S&P* 2025.
 
