@@ -12,15 +12,13 @@ I am an Assistant Professor in the School of Computer Science at Fudan Universit
 
 My research focuses on system security and programming technologies, combining classic approaches with AI innovations to secure complex real-world systems. Specific directions include:
 
-1. Software Security
+- Software Security
    - Vulnerability detection in large-scale systems (Linux kernel, Chrome, web/mobile platforms)
    - Formal methods for security verification
-
-2. Compilation Techniques
+- Compilation Techniques
    - Traditional compiler optimizations
    - AI-driven program analysis and compilation
-
-3. Language Design
+- Language Design
    - Memory-safe programming language architectures
    - Accelerator-oriented DSLs for TPUs/GPUs
 
