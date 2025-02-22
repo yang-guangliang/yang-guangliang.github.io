@@ -10,18 +10,18 @@ permalink: /projects/
 
 #### 1. General Language Analysis Platform
 In this project, we aim to achieve precise program analysis through multi-language support, including:
-    - C
-    - LLVM
-    - Java
-    - Python
-    - JavaScript
-    - PHP
-    - Typescript/ArkTS
+- C  
+- LLVM  
+- Java  
+- Python  
+- JavaScript  
+- PHP  
+- Typescript/ArkTS  
 
 The platform offers a comprehensive suite of precise program analysis techniques:
-    - Control Flow Analysis
-    - Context-, Field-, Flow-, and Branch-Sensitive Memory State Analysis
-    - Taint Analysis
+  - Control Flow Analysis
+  - Context-, Field-, Flow-, and Branch-Sensitive Memory State Analysis
+  - Taint Analysis
 
 #### 2. Enhancing C/C++ Security
 C/C++ have been prevalent in past years but often suffer from serious security vulnerabilities. Our goal is to enhance the security of these languages through advanced analysis and mitigation techniques.
