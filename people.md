@@ -1,6 +1,7 @@
 ---
 layout: default
 title: people
+permalink: /people/
 ---
 
 ### Current Graduate Students
