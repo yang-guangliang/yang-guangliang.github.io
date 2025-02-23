@@ -12,8 +12,8 @@ I am an Assistant Professor in the School of Computer Science at Fudan Universit
 Our research at SSR focuses on constructing reliable programming paradigms and secure systems. We pioneer methods to fortify real-world software infrastructure against evolving security threats through language and systems co-design. Key areas include:
 
 - Software Security
-   - Vulnerability detection in large-scale systems (Linux kernel, Chrome, web/mobile platforms)
-   - Formal methods for security verification
+   - Vulnerability detection in large-scale systems 
+   - Formal methods for security analysis
 - Compilation Techniques
    - Traditional compiler optimizations
    - AI system
