@@ -10,3 +10,5 @@ title: people
 - Ruining Gao, MS student
 - Aohan Mei, MS student
 - Xiaozhen Xu, MS student
+
+### Alumni
