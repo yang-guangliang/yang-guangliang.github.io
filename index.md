@@ -4,7 +4,7 @@ title: home
 ---
 
 
-<img width="150px"  style="float:right; margin-left:100px;margin-top:20px;" src="./pictures/self.jpg">
+<img width="150px"  style="float:right; margin-left:80px;margin-top:20px;" src="./pictures/self.jpg">
 
 
 I am an assistant professor in the School of Computer Science at Fudan University, where I lead the System Security & Reliability ([SSR](https://gitee.com/fudan-csr)) research group. Prior to joining Fudan in 2021, I earned my PhD from Texas A&M University in 2019 and conducted postdoctoral research at Georgia Tech.
