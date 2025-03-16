@@ -10,22 +10,23 @@ permalink: /publications/
 
 ### Publications
 
-1. Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, Bocheng Xiang, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang. Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection. *USENIX Security* 2025.
+1. Fengyu Liu, Yuan Zhang, Tian Chen, Youkun Shi, Guangliang Yang, Zihan Lin, Min Yang, Junyao He, Qi Li. Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications. IEEE S&P, 2025.  
+2. Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, Bocheng Xiang, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang. Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection. *USENIX Security* 2025.
 
-2. Fengyu Liu, Youkun Shi, Yuan Zhang, Guangliang Yang, Enhao Li, Min Yang. MOCGuard: Accurately Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications. *IEEE S&P* 2025.
+3. Fengyu Liu, Youkun Shi, Yuan Zhang, Guangliang Yang, Enhao Li, Min Yang. MOCGuard: Accurately Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications. *IEEE S&P* 2025.
 
-3. Yizhe Shi, Zhemin Yang, Kangwei Zhong, Guangliang Yang, Yifan Yang, Xiaohan Zhang, Min Yang. The Skeleton Keys: A Large Scale Analysis of Credential Leakage in Mini-apps. NDSS 2025.
+4. Yizhe Shi, Zhemin Yang, Kangwei Zhong, Guangliang Yang, Yifan Yang, Xiaohan Zhang, Min Yang. The Skeleton Keys: A Large Scale Analysis of Credential Leakage in Mini-apps. NDSS 2025.
 
-4. Zhibo Zhang, Lei Zhang, Guangliang Yang, Yanjun Chen, Jiahao Xu, Min Yang. The Dark Forest: Understanding Security Risks of Cross-Party Delegated Resources in Mobile App-in-App Ecosystems. *IEEE Transactions on Information Forensics and Security* (TIFS) 2024.
+5. Zhibo Zhang, Lei Zhang, Guangliang Yang, Yanjun Chen, Jiahao Xu, Min Yang. The Dark Forest: Understanding Security Risks of Cross-Party Delegated Resources in Mobile App-in-App Ecosystems. *IEEE Transactions on Information Forensics and Security* (TIFS) 2024.
 
-5. Keke Lian, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang. Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications. *FSE* 2024.  
+6. Keke Lian, Lei Zhang, Guangliang Yang, Shuo Mao, Xinjie Wang, Yuan Zhang, Min Yang. Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications. *FSE* 2024.  
 <span style="color:red">*ACM SIGSOFT Distinguished Paper award*</span>  
    
-6. Feng Xiao, Zhongfu Su, Guangliang Yang, and Wenke Lee. JASMINE: Scale up JavaScript Static Security Analysis with Computation-based Semantic Explanation. *IEEE S&P* 2024.
+7. Feng Xiao, Zhongfu Su, Guangliang Yang, and Wenke Lee. JASMINE: Scale up JavaScript Static Security Analysis with Computation-based Semantic Explanation. *IEEE S&P* 2024.
 
-7. Peng Deng, Zhemin Yang, Lei Zhang, **Guangliang Yang**, Wenzheng Hong, Yuan Zhang, and Min Yang. NestFuzz: Enhancing Fuzzing with Comprehensive Understanding of Input Processing Logic. *ACM CCS* 2023.   
+8. Peng Deng, Zhemin Yang, Lei Zhang, **Guangliang Yang**, Wenzheng Hong, Yuan Zhang, and Min Yang. NestFuzz: Enhancing Fuzzing with Comprehensive Understanding of Input Processing Logic. *ACM CCS* 2023.   
     
-8. Shuai li, Zhemin Yang, **Guangliang Yang**, Hange Zhang, Nan Hua, Yurui Huang, and Min Yang.  Notice the Imposter! A Study on User Tag Spoofing Attack in Mobile Apps. *USENIX Security* 2023.
+9. Shuai li, Zhemin Yang, **Guangliang Yang**, Hange Zhang, Nan Hua, Yurui Huang, and Min Yang.  Notice the Imposter! A Study on User Tag Spoofing Attack in Mobile Apps. *USENIX Security* 2023.
 
 0. Feng Xiao, Zheng Yang, Joey Allen, **Guangliang Yang**, Grant Williams, and Wenke Lee. Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem. *ACM CCS* 2022.
 
