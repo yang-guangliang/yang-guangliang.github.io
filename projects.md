@@ -9,14 +9,7 @@ permalink: /projects/
 ### Recent Projects
 
 #### 1. General Language Analysis Platform
-In this project, we aim to achieve precise program analysis through multi-language support, including:
-- C  
-- LLVM  
-- Java  
-- Python  
-- JavaScript  
-- PHP  
-- Typescript/ArkTS  
+In this project, we aim to achieve precise program analysis through multi-language support, including: C/LLVM/Java/Python/JavaScript/PHP/Typescript/ArkTS.
 
 The platform offers a comprehensive suite of precise program analysis techniques:
   - Control Flow Analysis
