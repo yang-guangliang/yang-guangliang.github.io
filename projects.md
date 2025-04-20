@@ -9,7 +9,7 @@ permalink: /projects/
 ### Recent Projects
 
 #### 1. LIAN: a software Analysis platform [source code: [GITEE](https://gitee.com/fdu-ssr/lian), [GITHUB](https://github.com/yang-guangliang/lian)]
-Lian can conduct precise program analysis through multi-language support (e.g., C/LLVM/Java/Python/JavaScript/PHP/Typescript/ArkTS), and a comprehensive suite of semantic analysis techniques:
+Lian can conduct precise program analysis with multi-language support (e.g., C/LLVM/Java/Python/JavaScript/PHP/Typescript/ArkTS), and a comprehensive suite of semantic understanding techniques:
   - Interprocedural data flow analysis
   - Context-, Field-, Flow-, and Branch-Sensitive Program State Analysis
   - Taint Analysis
