@@ -15,4 +15,4 @@ permalink: /people/
 ### Alumni
 
 
-- Zhihe Yin (2025, First employment: huwei)
+- Zhihe Yin (2025, First employment: huawei)
