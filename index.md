@@ -16,7 +16,7 @@ Our research at SSR is dedicated to constructing and advancing reliable and secu
    - Application of formal methods for security analysis
 - High-performance safe programming
    - Design and implementation of memory-safe programming languages
-   - Accelerator-oriented hardware abstraction 
+   - Language-level hardware abstraction 
 - Reliable computing system
    - Computing system stack construction
    - AI system optimization and acceleration
