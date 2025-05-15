@@ -7,19 +7,19 @@ title: home
 <img width="150px"  style="float:right; margin-left:80px;margin-top:20px;" src="./pictures/self.jpg">
 
 
-I am an assistant professor in the School of Computer Science at Fudan University, where I lead the System Security & Reliability ([SSR](https://gitee.com/fudan-csr)) research group. Prior to joining Fudan in 2021, I earned my PhD from Texas A&M University in 2019 and conducted postdoctoral research at Georgia Tech.
+I am an assistant professor in the School of Computer Science at Fudan University, where I lead the System Security & Reliability ([SSR](https://gitee.com/fudan-csr)) research group. Prior to joining Fudan in 2021, I earned my PhD from Texas A&M University in 2019 and conducted postdoctoral research at Georgia Tech. 
 
-Our research at SSR focuses on constructing reliable programming paradigms and secure systems. We innovate and leveraging cutting-edge approaches to strengthen real-world software against evolving security threats through the co-design of languages and systems. Key areas include:
+Our research at SSR is dedicated to constructing and advancing reliable and secure computing systems by addressing foundational challenges in the design, implementation, and verification of evolving hardware-software computating infrastructures. Key areas include:
 
 - Security vetting 
    - Vulnerability detection in large-scale systems 
    - Application of formal methods for security analysis
 - Safe programming
    - Design and implementation of memory-safe programming languages
-   - Development of accelerator-oriented domain-specific languages (DSLs) for TPUs and GPUs
-- Reliable compilation
-   - Optimization techniques in traditional compilers
-   - AI system improvement
+   - Accelerator-oriented hardware abstraction for TPUs and GPUs
+- Reliable computing system
+   - Computing system stack construction
+   - AI system optimization and acceleration
 
 ### Contact
 
