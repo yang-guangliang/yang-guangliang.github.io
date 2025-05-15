@@ -15,7 +15,7 @@ Lian conducts precise code semantic analysis with multi-language support (e.g., 
   - Taint analysis
 
 #### 2. Memory safe language
-C/C++ have been prevalent in past years but often suffer from serious security vulnerabilities. Our goal is to provide a new language and safe compiler to eliminate vulnerabilities.
+C/C++ have been prevalent in past years but often suffer from serious security vulnerabilities. We design a new language and safe compiler to eliminate vulnerabilities.
 
 #### 3. AI system statck   
 We expand our new language to facilicate the development and design of ops with the universal supports of various hardward and AI frameworks.
