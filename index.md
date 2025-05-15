@@ -18,7 +18,7 @@ Our research at SSR is dedicated to constructing and advancing reliable and secu
    - Design and implementation of memory-safe programming languages
    - Language-level hardware abstraction 
 - Reliable computing system
-   - Computing system stack construction
+   - System stack construction
    - AI system optimization and acceleration
 
 ### Contact
