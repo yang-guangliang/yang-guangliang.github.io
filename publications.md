@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Publications
 
-1. Fengyu Liu, Yuan Zhang, Tian Chen, Youkun Shi, Guangliang Yang, Zihan Lin, Min Yang, Junyao He, Qi Li. Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications. IEEE S&P, 2025.
+1. Fengyu Liu, Yuan Zhang, Tian Chen, Youkun Shi, Guangliang Yang, Zihan Lin, Min Yang, Junyao He, Qi Li. Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications. IEEE S&P, 2025.  
 <span style="color:red">*Distinguished Paper Award*</span>  
 
 3. Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, Bocheng Xiang, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang. Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection. USENIX Security, 2025.
