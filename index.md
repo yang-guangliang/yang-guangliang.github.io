@@ -12,7 +12,7 @@ I am an assistant professor in the School of Computer Science at Fudan Universit
 Our research at SSR is dedicated to constructing and advancing reliable and secure computing systems by addressing foundational challenges in the design, implementation, and verification of evolving hardware-software computating infrastructures. Key areas include:
 
 - High-performance safe programming
-   - Memory-safe programming languages
+   - Memory-safe programming language
    - Language-level hardware abstraction 
 - Reliable computing system
    - System stack construction
