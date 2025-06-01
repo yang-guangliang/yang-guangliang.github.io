@@ -15,7 +15,7 @@ Our research at SSR is dedicated to constructing and advancing reliable and secu
    - Vulnerability detection in large-scale systems 
    - Application of formal methods for security analysis
 - High-performance safe programming
-   - Design and implementation of memory-safe programming languages
+   - Memory-safe programming languages
    - Language-level hardware abstraction 
 - Reliable computing system
    - System stack construction
