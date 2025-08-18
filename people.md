@@ -10,6 +10,11 @@ permalink: /people/
 - Ruining Gao, MS student
 - Aohan Mei, MS student
 - Xiaozhen Xu, MS student
+- Haoxiang Zhang, MS student
+- Yi Wang, MS student
+- Can Li, MS student
+- Xinming Guo, MS student
+- Yangshuo Bai, MS student
 
 ### Alumni
 
