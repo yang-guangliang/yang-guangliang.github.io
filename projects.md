@@ -25,6 +25,6 @@ YIAN rethinks systems programming by guaranteeing complete memory safety, withou
 
 YIAN targets safety-critical domains such as operating systems, embedded firmware, and secure AI runtimes, where reliability cannot be compromised by errors and bugs.
 
-#### 3. QING(晴): High-performance AI system stack for RISC-V
+#### 3. QING: High-performance AI system stack for RISC-V
 
 QING is a full-stack hardware-aware AI computing framework co-designed with the YIAN language to enable efficient, safe, and portable AI workloads on RISC-V architectures. QING eliminates the abstraction gap between high-level AI models and heterogeneous hardware. Currently targeting RISC-V, QING's architecture is designed for extensibility. Future versions will support cross-architecture portability and emerging AI accelerators.
