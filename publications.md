@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Publications
 
-1. Xinming Guo, Guangliang Yang, Haoxiang Zhang, Can Li, Yi Wang, Min Yang. Survey of Language Level Memory Safety. IEEE CRESS, 2025. [PDF](assets/sok_language_level_security.pdf)
+1. Xinming Guo, Guangliang Yang, Haoxiang Zhang, Can Li, Yi Wang, Min Yang. Survey of Language Level Memory Safety. IEEE CRESS, 2025. [[PDF](assets/sok_language_level_security.pdf)]
    
 3. Youkun Shi, Fengyu Liu, Guangliang Yang, Yuan Zhang, Yinzhi Cao, Enhao Li, Xin Tan, Xiapu Luo, Min Yang, Siyi Chen. Facilitating Access Control Vulnerability Detection in Modern Java Web Applications with Accurate Permission Check Identification. IEEE Transactions on Information Forensics and Security (TIFS), 2025.
 
