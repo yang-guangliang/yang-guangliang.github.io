@@ -6,7 +6,6 @@ permalink: /people/
 
 ### Current Graduate Students
 
-- Congcong Zhang, MS student
 - Ruining Gao, MS student
 - Aohan Mei, MS student
 - Xiaozhen Xu, MS student
@@ -18,5 +17,6 @@ permalink: /people/
 
 ### Alumni
 
-- Zhihe Yin (2025, First employment: huawei)
+- Zhihe Yin, MS student (2025, First employment: Huawei)
 - Yanxiao Zhai, MS student (2025, First employment: Jiangsu Yinhang)
+- Congcong Zhang, MS student (2025, First employment: Huawei)
