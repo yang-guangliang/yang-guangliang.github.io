@@ -15,12 +15,12 @@ Our research at SSR is dedicated to constructing and advancing secure and reliab
    - Memory-safe programming language
    - Language-level abstractions for hardware interaction
 - Reliable Computing Systems
-   - End-to-end construction of AI system stacks
-   - System-level optimization and hardware acceleration
+   - End-to-end AI system stacks
+   - System-level optimization and acceleration
 - Security Vetting and Assurance
    - Formal methods for code analysis
    - Integration of static analysis with AI-driven techniques
-   - Vulnerability detection in real-world large-scale software and systems
+   - Vulnerability detection against real-world large-scale systems
 
 ### Contact
 
