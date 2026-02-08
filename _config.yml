@@ -4,8 +4,6 @@ description: >-
 
 author: 杨广亮
 
-baseurl: "/guangliang" 
-
 nav:
   - title: Home
     url: /
