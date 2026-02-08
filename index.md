@@ -3,26 +3,52 @@ layout: default
 title: home
 ---
 
+<style>
+  .hero-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    padding: 2rem;
+  }
 
-<img width="150px"  style="float:right; margin-left:80px;margin-top:20px;" src="./pictures/self.jpg">
+  .main-title {
+    font-size: clamp(6rem, 20vw, 12rem);
+    font-weight: 900;
+    letter-spacing: -0.04em;
+    margin: 0;
+    color: #000;
+    line-height: 0.9;
+  }
 
+  .coming-soon {
+    font-size: clamp(1.5rem, 4vw, 2.5rem);
+    color: #aaa;
+    margin: 3rem 0 5rem 0;
+    font-weight: 300;
+  }
 
-I am an assistant professor in the School of Computer Science at Fudan University, where I lead the System Security & Reliability ([SSR](https://gitee.com/fudan-csr)) research group. Prior to joining Fudan in 2021, I earned my PhD from Texas A&M University and subsequently conducted postdoctoral research at Georgia Tech. 
+  .tagline {
+    font-size: clamp(1.5rem, 3.5vw, 2.5rem);
+    color: #666;
+    font-weight: 300;
+    max-width: 800px;
+    text-align: center;
+    line-height: 1.5;
+  }
 
-Our research at SSR is dedicated to constructing and advancing secure and reliable computing systems by addressing foundational challenges in the design, implementation, and verification of modern hardware-software co-designed computation. Key areas include:
+  .highlight {
+    color: #000;
+    font-weight: 400;
+  }
+</style>
 
-- High-Performance Safe Programming
-   - Memory-safe programming language
-   - Language-level abstractions for hardware interaction
-- Reliable Computing Systems
-   - End-to-end AI system stacks
-   - System-level optimization and acceleration
-- Security Vetting and Assurance
-   - Formal methods for code analysis
-   - Integration of static analysis with AI-driven techniques
-   - Vulnerability detection against real-world large-scale systems
-
-### Contact
-
-- <em>Email:</em> yanggl at fudan.edu.cn
-- <em>Office:</em> Room D6013, NO.2 Interdisciplinary Building, Fudan JiangWan Campus, Shanghai
+<div class="hero-container">
+  <h1 class="main-title">Yian</h1>
+  
+  <p class="tagline">
+    a pure and safe language with <span class="highlight">provable memory safety</span>
+  </p>
+</div>

@@ -1,21 +1,5 @@
-title: Guangliang Yang  @  Fudan University
+title: The Yian Programming Language
 description: >- 
-   The home page of Guangliang Yang
+  Yian is a pure and safe systems language
 
-author: 杨广亮
-
-nav:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects/
-  - title: Publications
-    url: /publications/
-  - title: Service
-    url: /service/
-  - title: Teaching
-    url: /teaching/
-  - title: People
-    url: /people/
-  - title: Blog
-    url: /blog/
+author: Guangliang Yang
